@@ -16,14 +16,15 @@ public class ProvaGit {
      */
     public static void main(String[] args) {
 
-  int i =0;
+  int i =5;
   
   while(true){
       System.out.println("Hello World"+i);
-      i++; 
+      System.out.println("Have a nice day");
+      i++;  
   }
   
-
+ 
 
     }
     
